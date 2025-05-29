@@ -1,2 +1,2 @@
 # Smart-Cane-Project
-Adruino/Micro:Bit Smart Cane Project
+Arduino/Micro:Bit Smart Cane Project
